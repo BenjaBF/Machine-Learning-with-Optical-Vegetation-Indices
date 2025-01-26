@@ -4,5 +4,3 @@ pillow
 matplotlib
 scikit-learn
 rasterio
-tempfile
-os
