@@ -1,3 +1,5 @@
+!pip install gdown
+
 import streamlit as st
 import gdown
 from PIL import Image, ImageOps
