@@ -1,0 +1,8 @@
+streamlit
+gdown
+PIL
+matplotlib.pylab
+sklearn.cluster
+rasterio
+tempfile
+os
