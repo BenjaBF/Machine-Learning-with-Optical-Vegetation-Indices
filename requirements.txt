@@ -1,8 +1,8 @@
 streamlit
 gdown
 pillow
-matplotlib.pylab
-sklearn.cluster
+matplotlib
+sklearn
 rasterio
 tempfile
 os
