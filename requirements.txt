@@ -2,7 +2,7 @@ streamlit
 gdown
 pillow
 matplotlib
-sklearn
+scikit-learn
 rasterio
 tempfile
 os
