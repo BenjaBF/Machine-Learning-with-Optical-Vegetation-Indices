@@ -1,6 +1,6 @@
 streamlit
 gdown
-PIL
+pillow
 matplotlib.pylab
 sklearn.cluster
 rasterio
